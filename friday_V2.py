@@ -127,7 +127,6 @@ if __name__ == "__main__":
                 os.startfile(Your_dir)
         else:
             speak('I could not get that')
-            speak('Please Try again')
 b.close()
 
     
