@@ -1,0 +1,163 @@
+friday
+this the conversation with Friday_V2
+---------------Conversation----------------------
+
+----------2019-08-28----------
+good evening sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-28----------
+good evening sir
+Hello sir i am Friday.
+Enter your password
+wellcome sir
+How i can help you ?
+exit
+Have a good day sir
+
+----------2019-08-28----------
+good evening sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-2820----------
+good evening sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-29:13----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+wellcome sir
+How i can help you ?
+send a mail
+what should i say sir
+Unable to sent mail at this moment
+sorry
+exit
+Have a good day sir
+
+----------2019-08-31:13:03----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:04----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:04----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:05----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:05----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:11----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:11----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:12----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:14----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:14----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:15----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:18----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31:13:20----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+wellcome sir
+How i can help you ?
+exit
+Have a good day sir
+
+----------2019-08-31time:13:25----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+password is incorrect
+
+----------2019-08-31 time:13:56:08----------
+good afternoon sir
+Hello sir i am Friday.
+Enter your password
+wellcome sir
+How i can help you ?
+open app
+which app do you want to open
+
+I could not get that
+Please Try again
+
+I could not get that
+Please Try again
+exit
+Have a good day sir
+
+----------2019-09-08 time:13:47:27----------
+good afternoon sir
+Hello sir i am Friday.
+I am Friday
+how can i help you
+exit
+Have a good day sir
+
+----------2019-09-08 time:13:48:22----------
+good afternoon sir
+Hello sir.
+I am Friday
+how can i help you
+exit
+Have a good day sir
