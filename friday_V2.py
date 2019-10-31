@@ -96,7 +96,7 @@ if __name__ == "__main__":
             ls_dir ='E:\\BACKUP_08_05_2019\\DESKTOP\\ls'
             os.startfile(ls_dir)
         elif 'your folder' in quary:
-            Your_dir = 'E:\\BACKUP_08_05_2019\\DESKTOP\\ls\\programming\\python\\projects\\JARVIS A.I'
+            Your_dir = "your folder"
             os.startfile(Your_dir)
         elif 'who are you' in quary:
             speak('I am Friday')
